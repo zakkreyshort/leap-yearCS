@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/leap-year/bin/Debug/netcoreapp2.2/Hello.deps.json
+/Users/Guest/Desktop/leap-year/bin/Debug/netcoreapp2.2/Hello.runtimeconfig.json
+/Users/Guest/Desktop/leap-year/bin/Debug/netcoreapp2.2/Hello.runtimeconfig.dev.json
+/Users/Guest/Desktop/leap-year/bin/Debug/netcoreapp2.2/Hello.dll
+/Users/Guest/Desktop/leap-year/bin/Debug/netcoreapp2.2/Hello.pdb
+/Users/Guest/Desktop/leap-year/obj/Debug/netcoreapp2.2/Hello.csprojAssemblyReference.cache
+/Users/Guest/Desktop/leap-year/obj/Debug/netcoreapp2.2/Hello.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/leap-year/obj/Debug/netcoreapp2.2/Hello.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/leap-year/obj/Debug/netcoreapp2.2/Hello.AssemblyInfo.cs
+/Users/Guest/Desktop/leap-year/obj/Debug/netcoreapp2.2/Hello.dll
+/Users/Guest/Desktop/leap-year/obj/Debug/netcoreapp2.2/Hello.pdb
